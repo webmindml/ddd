@@ -16,7 +16,7 @@ Introduction to WebGPU Components with <a href="https://github.com/webmindml/ddd
 
 The main purpose of the <a href="https://github.com/webmindml/prepostprocess.ddd/blob/main/ddd.ddd">.ddd</a> abstraction is to simplify the usage of WebGPU in web development by providing an intuitive API. The following objectives highlight the benefits of adopting the .ddd abstraction:
 
-  Simplified WebGPU Interaction: By encapsulating the intricacies of WebGPU, .ddd enables developers to focus on application logic rather than low-level details.
+  Simplified <a href="https://webgpu.rocks/">WebGPU</a> Interaction: By encapsulating the intricacies of WebGPU, .ddd enables developers to focus on application logic rather than low-level details.
 
   Code Maintainability and Portability: With <a href="https://github.com/webmindml/ddd">.ddd</a>, developers can adapt their applications to changes in WebGPU specifications and browser implementations without rewriting significant portions of the codebase.
 
