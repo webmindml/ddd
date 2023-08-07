@@ -1,8 +1,7 @@
 # ddd.ddd
-# ddd.ddd
 
 import gradio as gr
-import your_webgpu_library as wgpu  # Replace 'your_webgpu_library' with the actual library name
+import your_webgpu_library as wgpu  # Replace your_webgpu_library with the actual library name
 
 # Custom preprocessor for WebGPU to postprocessor .ddd files using Gradio
 def preprocess_ddd(file_path):
