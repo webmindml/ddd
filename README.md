@@ -82,3 +82,6 @@ Additionally, the <a href="https://github.com/webmindml/ddd">.ddd</a> abstractio
 Furthermore, <a href="https://github.com/webmindml/ddd">.ddd</a> can facilitate code reuse and encourage best practices among developers working with WebGPU. As developers within a team or community adopt a shared abstraction like .ddd, they can collaboratively build upon and refine the abstraction, leading to a more robust and well-optimized codebase.<br />
 
 In summary, the <a href="https://github.com/webmindml/ddd">.ddd</a> abstraction class acts as a bridge between web developers and the powerful WebGPU technology. It simplifies interactions with WebGPU components, promotes code maintainability and portability, and encourages consistency across different platforms. By leveraging the .ddd abstraction, developers can unlock the full potential of WebGPU while focusing on building compelling and performant web applications. As WebGPU continues to grow and gain support, adopting such abstractions becomes increasingly valuable for web development in the age of modern and immersive web experiences.<br />
+
+
+This project was created as a deep dive precursor to the labab.ai WebGPU hackathon and is extremely alpha. webmindml is currently a prototype to an abstraction layer.
